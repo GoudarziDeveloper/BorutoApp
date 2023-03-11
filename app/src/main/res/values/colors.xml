@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_primary_dark">#FF2C2C2D</color>
+    <color name="dark_primary">#FF707070</color>
+    <color name="dark_on_primary">#00B7FF</color>
+    <color name="dark_text">#FFFFFF</color>
+
+    <color name="primary_dark">#FF707070</color>
+    <color name="primary">#FFFFFF</color>
+    <color name="on_primary">#5C4D34</color>
+    <color name="second_on_primary">#97815C</color>
+    <color name="text">#000000</color>
+
+    <color name="stars">#BCA300</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#CFCECE</color>
+</resources>

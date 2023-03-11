@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">امپراطوری بزرگ</string>
+    <string name="app_logo_description">لوگوی برنامه</string>
+    <string name="boarding_image_desc">On boarding image</string>
+    <string name="start_using">شروع</string>
+    <string name="search">جستجو</string>
+    <string name="search_icon">ایکون جستجو</string>
+    <string name="star_path">M12,17.27,18.18,21l-1.64-7.03L22,9.24l-7.19-.61L12,2,9.19,8.63,2,9.24l5.46,4.73L5.82,21Z</string>
+    <string name="hero_item_image">hero item image</string>
+    <string name="network_error">Network Error Icon</string>
+    <string name="top_search_icon">Search_Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="icfo_icon">Info Icon</string>
+    <string name="app_icon">app icon</string>
+    <string name="king_title">جایگاه</string>
+    <string name="gov_title">سلسله</string>
+    <string name="year_title">تولد</string>
+    <string name="family_title">خانواده</string>
+    <string name="positives_title">اقدامات مثبت</string>
+    <string name="negatives_title">اقدامات منفی</string>
+    <string name="description_title">توضیحات</string>
+</resources>
